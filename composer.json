@@ -1,0 +1,9 @@
+{
+    "name": "php-oxden/sybolt",
+	"type": "library",
+    "description": "php SyBolt library",
+    "require": {
+        "php": "^7.*",
+        "another-vendor/package": "1.*"
+    }
+}
